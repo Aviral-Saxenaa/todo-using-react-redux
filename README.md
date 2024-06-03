@@ -2,6 +2,8 @@
 
 Open [todo-using-react-redux.vercel.app](https://todo-using-react-redux.vercel.app/)
 
+Kindly see it on Laptop screen as it is not responsive yet...
+
 
 
 # Getting Started with Create React App
